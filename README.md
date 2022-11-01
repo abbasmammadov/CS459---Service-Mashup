@@ -43,6 +43,11 @@ __Reference__
 [2] https://opentripmap.io/product  <br />
 [3] https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/ 
 
+__Remark__
+
+Note that since it is publicly used, unique API keys have been removed from flow. In case of reproducing the results, one should create their own keys through the open-API’s provided in reference.
+
+
 __Further Extensions__
 
 There is a very large open-room for further advancements and improvements. <br />
