@@ -45,7 +45,8 @@ __Reference__
 
 __Further Extensions__
 
-There is a very large open-room for further advancements and improvements. First of all, even though covid-19 pandemic is almost disappearing, I am planning to add an API to show the current data- cases in specific countries. 
-Secondly, for now we can only see one event or one sightseeing place at a time, which is randomly chosen and changes in each input (even though input is the same). I will try to extend by adding buttons to change and see all events & places to visit in order to provide more flexibility.
-Thirdly, it is also one of the considerations to know the ticket prices when we travel. Since I was not able to find open-api’s to provide the ticket prices between  two places, at this phase I was not able to implement. But in further development, one can try to integrate the some airline API to show the prices in order to give some rough idea to the customer about the prices.
+There is a very large open-room for further advancements and improvements. <br />
+First of all, even though covid-19 pandemic is almost disappearing, I am planning to add an API to show the current data- cases in specific countries. <br />
+Secondly, for now we can only see one event or one sightseeing place at a time, which is randomly chosen and changes in each input (even though input is the same). I will try to extend by adding buttons to change and see all events & places to visit in order to provide more flexibility. <br />
+Thirdly, it is also one of the considerations to know the ticket prices when we travel. Since I was not able to find open-api’s to provide the ticket prices between  two places, at this phase I was not able to implement. But in further development, one can try to integrate the some airline API to show the prices in order to give some rough idea to the customer about the prices. <br />
 Finally, as an extension of the third one, one can add a living-cost API to see the accommodation & food prices for a fixed time interval.
